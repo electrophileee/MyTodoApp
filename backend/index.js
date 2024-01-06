@@ -5,7 +5,7 @@ connectToMongo();
 //install the express and load the nodejs application
 const express = require("express");
 const app = express();
-const port = 5000;
+const port = process.env.PORT||5000;
 var cors = require('cors')
 
 app.use(cors())

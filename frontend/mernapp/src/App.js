@@ -26,7 +26,7 @@ function App() {
  <TodoState showAlert={showAlert}>
    <Router>
         <Navbar 
-        title="ARK-PRO-CODER"
+        title="MyTodoApp"
         showAlert={showAlert}
         />
        <Alert alert={alert} />
