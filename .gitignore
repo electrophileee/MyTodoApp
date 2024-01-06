@@ -2,7 +2,7 @@
 logs
 *.log
 npm-debug.log*
-.env
+
 # Runtime data
 pids
 *.pid
@@ -39,3 +39,5 @@ jspm_packages
 
 #Excluding build directory
 public/
+
+.env
