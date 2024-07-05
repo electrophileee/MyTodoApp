@@ -22,7 +22,7 @@ This Todo app is a simple yet powerful task management tool that incorporates es
 1- Clone this repository
 2- Add the mongoURI and PORT environment Variable in the .env file
 3- Run following command in frontend folder cd mernapp , npm install and npm start
-4- Run following command in backend folder to start Backend npm install and nodemon index.js
+4- Run following command in backend folder to start Backend i.e  npm install and nodemon index.js
   
 ```
     
